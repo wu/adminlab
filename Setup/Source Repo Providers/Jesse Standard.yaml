@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:6atOEYiPS5W7CTBvCHNWzw
+url: https://github.com/kappamerc/adminlab
+urlType: REPO
+username: git

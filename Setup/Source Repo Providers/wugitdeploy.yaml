@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:f07hDa26Qbmhf0EC91EdaA
+url: https://github.com/wu/adminlab
+urlType: REPO
+username: wu

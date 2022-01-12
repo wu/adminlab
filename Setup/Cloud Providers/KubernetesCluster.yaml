@@ -1,0 +1,22 @@
+harnessApiVersion: '1.0'
+type: KUBERNETES_CLUSTER
+delegateSelectors:
+- hardeepreetis-imac.local
+skipValidation: true
+usageRestrictions:
+  appEnvRestrictions:
+  - appFilter:
+      entityNames:
+      - student115
+      filterType: SELECTED
+    envFilter:
+      filterTypes:
+      - NON_PROD
+  - appFilter:
+      entityNames:
+      - student115
+      filterType: SELECTED
+    envFilter:
+      filterTypes:
+      - PROD
+useKubernetesDelegate: true

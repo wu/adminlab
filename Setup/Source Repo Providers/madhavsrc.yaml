@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:e_BzE6wdRwCdbM4a00j3og
+url: https://github.com/madepu81/harness-demo.git
+urlType: REPO
+username: madepu81

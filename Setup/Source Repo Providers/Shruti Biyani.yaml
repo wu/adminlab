@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:EqIfNNGeQv2Zemqgujvxvg
+url: https://github.com/biyash/adminlab
+urlType: REPO
+username: git

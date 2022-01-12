@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:UFEj0qS1RNqMmIl1gAacXw
+url: https://github.com/rperdue3/adminlab
+urlType: REPO
+username: git
